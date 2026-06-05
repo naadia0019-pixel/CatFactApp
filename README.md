@@ -35,6 +35,4 @@ OR use VS Code Live Server.
 
 ## Screenshot
 
-Add your screenshot here:
-
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot 2026-06-05 155621.png)
